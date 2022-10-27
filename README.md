@@ -1,2 +1,1 @@
-# curriculum-vitae-site
-Personal Curriculum Vitae 
+# Personal Curriculum Vitae
